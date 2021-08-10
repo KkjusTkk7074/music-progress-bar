@@ -9,4 +9,4 @@ const progress = async(bar,current, total,slider,size=11) {
         };
     }
 
-module.exports = progress
+module.exports = progress;
