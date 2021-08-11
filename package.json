@@ -1,6 +1,6 @@
 {
   "name": "oxy-progress-bar1",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "<h2>Usage<h2>",
   "main": "index.js",
   "scripts": {
