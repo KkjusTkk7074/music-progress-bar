@@ -6,7 +6,7 @@ const bar = "━";
 const total = "";
 const current = "";
 const size = 20;
-slider = "❤️"
+const slider = "❤️"
 
 progress(bar,current, total,slider,size=11)
 
