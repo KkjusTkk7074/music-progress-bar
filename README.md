@@ -1,13 +1,13 @@
 <h2>Usage<h2>
 
-```
-const { progress } = require("music-progress-bar")
-const bar = "━"
-const total = ""
-const current = ""
-slider = "❤️"
+```js
+const { progress } = require("music-progress-bar");
+const bar = "━";
+const total = "";
+const current = "";
+const size = 20;
+const slider = "❤️"
 
-
-progress(bar,current, total,slider,size=11)
+progress(bar,current, total,slider,size)
 
 ```
