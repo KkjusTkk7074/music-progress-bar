@@ -1,7 +1,7 @@
 <h2>Usage<h2>
 
 ```js
-const { progress } = require("music-progress-bar");
+const { progress } = require("oxy-progress-bar1");
 const bar = "━";
 const total = "100";
 const current = "10";
