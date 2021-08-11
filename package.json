@@ -1,0 +1,19 @@
+{
+  "name": "oxy-progress-bar1",
+  "version": "5.0.2",
+  "description": "<h2>Usage<h2>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KkjusTkk7074/music-progress-bar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KkjusTkk7074/music-progress-bar/issues"
+  },
+  "homepage": "https://github.com/KkjusTkk7074/music-progress-bar#readme"
+}
